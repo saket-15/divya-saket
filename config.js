@@ -101,7 +101,7 @@ window.INVITATION = {
     "image": "",
     "calendarButton": "Add to Calendar",
     "directionsButton": "Get Directions",
-    "note": "Haldi and Suwal Patai will be held at our home in Delhi. All other functions are at the venue above."
+    "note": "Ganesh Pooja and Suwal Patai will be held at our home in Delhi. All other functions are at the venue above."
   },
   "dressCode": {
     "show": false
