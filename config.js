@@ -118,7 +118,7 @@ window.INVITATION = {
     "thankYouYes": "Thank you! We can't wait to celebrate with you.",
     "thankYouNo": "Thank you for letting us know. You will be missed!",
     "method": "whatsapp",
-    "whatsappNumber": "917906622752",
+    "whatsappNumber": "919891594357  ",
     "email": "",
     "formspreeId": "",
     "googleScriptUrl": ""
